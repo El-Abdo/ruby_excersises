@@ -28,4 +28,4 @@ def bubble_sort (array)
     
 end
 
-puts switch([1,1,3,2],1)
+#puts switch([1,1,3,2],1)
